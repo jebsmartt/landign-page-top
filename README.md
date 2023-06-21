@@ -1,2 +1,2 @@
 # odin-landing-page
-reference https://github.com/piotrnajda3000/landing-page/blob/remake/index.html
+referenced this attempt as a check of my work https://github.com/piotrnajda3000/landing-page/blob/remake/index.html
