@@ -183,7 +183,7 @@ button {
 .quote {
     display: flex;
     flex-direction: column;
-    flex-basis: 700px;
+    flex-basis: 800px;
 }
 
 .quote p {
@@ -191,6 +191,7 @@ button {
     font-weight: light;
     font-style: italic;
     color: #1F2937;
+    margin-bottom: 0;
 }
 
 .attribution-quote {
